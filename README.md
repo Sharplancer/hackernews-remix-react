@@ -1,15 +1,8 @@
 <h2 align="center">Hacker News Clone Remix/React</h2>
 
-<p align="center">
-  <a href="https://github.com/clintonwoo/hackernews-remix-react/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/clintonwoo/hackernews-remix-react?style=social"></a> 
-  <a href="https://github.com/clintonwoo/"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/clintonwoo.svg?style=social&label=Follow"></a> 
-  <a href="https://github.com/clintonwoo/hackernews-remix-react/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/clintonwoo/hackernews-remix-react.svg"></a> 
-  <a href="https://github.com/clintonwoo/hackernews-remix-react/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/clintonwoo/hackernews-remix-react.svg"></a>
-</p>
-
 This is a clone of Hacker News written in TypeScript using Remix and React.
 
-It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
+It is intended to be an exampCancel changesle or boilerplate to help you structure your projects using production-ready technologies.
 
 The project implements the publicly available parts of the Hacker News site API, with some remaining functionality implemented in-memory.
 
