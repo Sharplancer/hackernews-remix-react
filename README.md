@@ -90,6 +90,3 @@ You can download and run the repo with one command to rule them all:
 
 File an issue for ideas, conversation or feedback. Pull requests are welcome.
 
-## Community
-
-After you ★Star this project, follow [@ClintonDAnnolfo](https://twitter.com/clintondannolfo) on Twitter.
